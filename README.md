@@ -1,5 +1,5 @@
 # FreeRTOS-Arduino
-A FreeRtos porting to arduino zero
+A [FreeRTOS](http://www.freertos.org/) port for the [Arduino Zero](https://www.arduino.cc/en/Main/ArduinoBoardZero).
 
-##USAGE##
-Place the FreeRTOS folder to your arduino libraries
+## USAGE ##
+Place the FreeRTOS folder to your arduino libraries directory.
